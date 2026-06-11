@@ -1,0 +1,6 @@
+{
+  "name": "AgileSphere",
+  "description": "A high-fidelity digital presence scaling platform with custom growth calculators, interactive strategic process matrices, and server-side AI-powered brand performance audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

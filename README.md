@@ -118,20 +118,6 @@ To prevent standard Node runtime ES Module relative path import errors, the repo
 *   **Server-Side Credentials Gatekeeping:** The Gemini API Key is never loaded into browser contexts. All strategic prompts are securely aggregated, filtered, and run exclusively behind the Express reverse-proxy.
 *   **Durable Data Integrity:** Standard submission receipt IDs (e.g. `AGS-XXXXXX`) are computed on-the-fly and returned with encrypted-grade logs, preventing credential exposure or listing security issues.
 
+---
 
-# Run and deploy your app
-
-This contains everything you need to run your app locally.
-
-View the app in AI Studio: https://ai.studio/apps/13208eec-8b74-4853-a82f-b55987a505f1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env](.env) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+AppID /apps/13208eec-8b74-4853-a82f-b55987a505f1
